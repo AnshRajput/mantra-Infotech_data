@@ -2,10 +2,10 @@
   "section1": [],
   "ourservices": {
     "carddata": [
-      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
-      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
-      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
-      { "title": "Higher Dimension of Education", "Image": "", "desc": "" }
+      { "title": "Higher Dimension of Education", "LottieImage": "https://assets9.lottiefiles.com/packages/lf20_pweMN95htI.json", "desc": "" },
+      { "title": "Higher Dimension of Education", "LottieImage": "https://assets9.lottiefiles.com/packages/lf20_pweMN95htI.json", "desc": "" },
+      { "title": "Higher Dimension of Education", "LottieImage": "https://assets9.lottiefiles.com/packages/lf20_pweMN95htI.json", "desc": "" },
+      { "title": "Higher Dimension of Education", "LottieImage": "https://assets9.lottiefiles.com/packages/lf20_pweMN95htI.json", "desc": "" }
     ]
   },
   "whychooseus": {
