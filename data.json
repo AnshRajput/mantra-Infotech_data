@@ -1,0 +1,66 @@
+{
+  "section1": [],
+  "ourservices": {
+    "carddata": [
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" }
+    ]
+  },
+  "whychooseus": {
+    "carddata": [
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" }
+    ]
+  },
+  "ourCoustmers": {
+    "descripton": "",
+    "carddata": [
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" },
+      { "title": "Higher Dimension of Education", "Image": "", "desc": "" }
+    ]
+  },
+  "clientsays": {
+    "descripton": "",
+    "carddata": [
+      {
+        "title": "Higher Dimension of Education",
+        "Image": "",
+        "desc": "",
+        "designation": ""
+      },
+      {
+        "title": "Higher Dimension of Education",
+        "Image": "",
+        "desc": "",
+        "designation": ""
+      },
+      {
+        "title": "Higher Dimension of Education",
+        "Image": "",
+        "desc": "",
+        "designation": ""
+      },
+      {
+        "title": "Higher Dimension of Education",
+        "Image": "",
+        "desc": "",
+        "designation": ""
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "facebook": "",
+      "email": "",
+      "whatsapp": "",
+      "instagram": "",
+      "phone": ""
+    }
+  }
+}
